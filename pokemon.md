@@ -1,4 +1,1 @@
-﻿# Pokémon\n\nHier vind je informatie over verschillende Pokémon.
-Hier vind je uitgebreide informatie over verschillende soorten Pokémon en hun krachten.
-Hier vind je informatie over verschillende Pokémon.
-Elke Pokémon heeft unieke eigenschappen en vaardigheden.
+﻿Hier vind je uitgebreide informatie over verschillende soorten Pokémon en hun krachten.
